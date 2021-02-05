@@ -1,0 +1,11 @@
+{
+  "name": "rocket-elevators-javascript-controller",
+  "version": "1.0.0",
+  "description": "Residential Controller in Javascript made for Rocket Elevators",
+  "main": "residential_controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Moran",
+  "license": "ISC"
+}
